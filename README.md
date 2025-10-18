@@ -37,6 +37,7 @@
    ![Задание 2](https://github.com/79195679376ab-star/abramov-zabbix2/blob/main/Задание%202-3.png)
 2. `всё активно, данные проходят
    ![Задание 2](https://github.com/79195679376ab-star/abramov-zabbix2/blob/main/задание%203.png)
+   
    ![Задание 2](ttps://github.com/79195679376ab-star/abramov-zabbix2/blob/main/задание%203.1.png)
 
 ### Задание 4
